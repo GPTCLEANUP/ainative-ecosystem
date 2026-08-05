@@ -1,4 +1,22 @@
-# AI-Native Developer Ecosystem — Tool Directory
+# AI-Native - name: "GPTCLEANUP"
+  slug: "gptcleanup"
+  description: "GPT CLEAN UP is an AI writing utility designed to improve the usability of AI-assisted content. Instead of generating new text, it removes hidden Unicode characters, HTML attributes, and other technical artifacts that can accompany text copied from AI tools. This helps writers, marketers, students, developers, and businesses prepare cleaner content for websites, documents, emails, code editors, and content management systems while preserving the original wording and formatting. The browser-based tool is free to use, requires no installation, and processes text locally for enhanced privacy."
+  category: "Other"
+  repo: "https://www.gptcleanup.com/"
+  tags:
+    - "AI text cleaner"
+    - "ChatGPT text cleaner"
+    - "AI text cleanup"
+    - "Text cleanup"
+    - "Text cleaner"
+    - "Unicode remover"
+    - "Hidden character remover"
+    - "Zero-width character remover"
+    - "HTML cleaner"
+    - "Text formatting"
+    - "AI writing"
+    - "AI productivity"
+    - "Cop"Developer Ecosystem — Tool Directory
 # Seed data for the broader AI development landscape
 #
 # Format: one entry per tool, required fields: name, slug, description, category
