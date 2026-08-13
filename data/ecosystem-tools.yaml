@@ -1,6 +1,40 @@
 # AI-Native Developer Ecosystem — Tool Directory
 # Seed data for the broader AI development landscape
-#
+#- name: "PASSMYESSAY"
+  slug: "passmyessay"
+  description: "PassMyEssay is an AI humanizer and writing-cleanup tool designed to help students, writers, marketers, and professionals make AI-assisted content sound more natural and personal.
+Paste your text into PassMyEssay to remove invisible Unicode characters, zero-width spaces, non-breaking spaces, and other formatting residue that can appear when copying content from AI tools such as ChatGPT, Claude, Gemini, and others.
+Its AI humanizer also identifies and rewrites common machine-sounding patterns, including repetitive transitions, overly formal phrasing, flat sentence structures, excessive hedging, and predictable AI-style wording—while preserving your original meaning, facts, numbers, names, quotations, and citations.
+PassMyEssay also includes an AI Phrase Detector that highlights sentences that may sound AI-generated and explains why they were flagged, allowing you to review and edit them yourself.
+Whether you're preparing an essay, report, email, article, proposal, or other written content, PassMyEssay helps you produce cleaner, more natural-sounding writing without changing what you actually want to say. It works directly in your browser, requires no installation, and can be tried without signing up."
+  category: "Other"
+  repo: "https://github.com/GPTCLEANUP/PASSMYESSAY.git"
+  tags:
+    - "AI humanizer"
+    - "AI text humanizer"
+    - "AI watermark remover"
+    - "AI watermark detector"
+    - "AI text detector"
+    - "ChatGPT humanizer"
+    - "ChatGPT watermark remover"
+    - "AI essay checker"
+    - "essay humanizer"
+    - "essay writing tool"
+    - "academic writing"
+    - "AI writing tools"
+    - "AI text cleaner"
+    - "hidden character remover"
+    - "Unicode cleaner"
+    - "AI content editing"
+    - "academic essay tools"
+    - "student writing tools"
+    - "AI detection"
+    - "ChatGPT text cleaner"
+    - "Claude humanizer"
+    - "Gemini humanizer"
+    - "AI writing assistant"
+    - "humanize AI text"
+    - "AI text rewriting"
 # Format: one entry per tool, required fields: name, slug, description, category
 # To add a tool: see CONTRIBUTING.md
 #
